@@ -1,3 +1,3 @@
-# MGFNET Code for peer review
+# MGFNET
 
-The model code is in mgfnet.py. We will open all code including training and eval affer the paper is accepted.
+Congratulations! MGFNet has been accepted by IJCV. We will open-source the code as soon as possible.
